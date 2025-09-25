@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "bb42f96e9c48f58a",
+    "type": "split",
+    "children": [
+      {
+        "id": "51ad760acef22d9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92c48f6b822ef411",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "795286943b0828d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fbe3ddd9ae8bec2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8544037df0bc36c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f2cdb5feea60e768",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "410c0ce9cfb1ed9d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "aa711c28bd13d8da",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.50746154785156
+  },
+  "right": {
+    "id": "ef023f5c9175a00a",
+    "type": "split",
+    "children": [
+      {
+        "id": "59f363aaae0b72ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1276516139b8e77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04 日记/2025/07/06  周日.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "06  周日 的反向链接列表"
+            }
+          },
+          {
+            "id": "e752494630df6f5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "04 日记/2025/07/06  周日.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "06  周日 的出链列表"
+            }
+          },
+          {
+            "id": "22bc1c6f1b7f59e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "4f940a36173125fe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "9189b9770cdf79ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04 日记/2025/07/06  周日.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "06  周日 的大纲"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "random-note:开始漫游笔记": false,
+      "obsidian-memos:Thino": false
+    }
+  },
+  "active": "92c48f6b822ef411",
+  "lastOpenFiles": [
+    "00 附件箱/Pasted image 20250919121757.png",
+    "04 日记/2025年/9月/2025-09-19_星期五.md",
+    "04 日记/2025年/9月/2025-09-15_星期一.md",
+    "00 收纳盒/【【计算机科学速成课】[40.md",
+    "00 附件箱/Pasted image 20250918163924.png",
+    "04 日记/2025年/9月/2025-09-11_星期四.md",
+    "04 日记/2025年/9月/2025-09-17_星期三.md",
+    "04 日记/2025/07/06  周日.md",
+    "00 附件箱/Pasted image 20250912122721.png",
+    "00 附件箱/Pasted image 20250912122613.png",
+    "00 收纳盒/career.tsinghua.edu.cn.md",
+    "00 附件箱/Pasted image 20250912121702.png",
+    "00 附件箱/Pasted image 20250912114253.png",
+    "00 附件箱/Pasted image 20250912114235.png",
+    "00 附件箱/Pasted image 20250912114221.png",
+    "00 收纳盒/未命名.base",
+    "04 日记/2025年/9月/2025-09-05_星期五.md",
+    "04 日记/2025/06/03  周二.md",
+    "04 日记/2025年/7月/2025-07-21_星期一.md",
+    "04 日记/2025年/7月/2025-07-06_星期日.md",
+    "04 日记/2025/05/04  周日.md",
+    "04 日记/2025/06/23  周一.md",
+    "00 附件箱/Pasted image 20250904101431.png",
+    "04 日记/2025/05/05  周一.md",
+    "04 日记/2025/06/24  周二.md",
+    "04 日记/2025/06/16  周一.md",
+    "04 日记/2025/06/06  周五.md",
+    "04 日记/2025/06/18  周三.md",
+    "04 日记/2025/06/05  周四.md",
+    "04 日记/2025/06/04  周三.md",
+    "04 日记/2025/06/12  周四.md",
+    "04 日记/2025/06/01  周日.md",
+    "04 日记/2025年/9月/2025-09-04_星期四.md",
+    "04 日记/2025年/9月",
+    "00 收纳盒/个人培养计划.canvas",
+    "04 日记/2025年/7月/2025-07-08_星期二.md",
+    "00 收纳盒/未命名.md",
+    "00 附件箱/2058d66445620116a81107ef2365b07.jpg",
+    "00 附件箱/Pasted image 20250721142402.png",
+    "04 日记/2025年/7月",
+    "04 日记/2025年",
+    "04 日记/2025/07",
+    "04 日记/2025/06",
+    "04 日记/2025/05",
+    "01 项目/肌肉量提升",
+    "01 项目/学习python",
+    "01 项目/复习整理《运动解剖书①》",
+    "未命名.canvas"
+  ]
+}

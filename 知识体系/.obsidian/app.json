@@ -1,0 +1,16 @@
+{
+  "showLineNumber": true,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 收纳盒",
+  "attachmentFolderPath": "00 附件箱",
+  "promptDelete": false,
+  "propertiesInDocument": "visible",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 96
+  }
+}

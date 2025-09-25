@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"33e179d800cd5b07","x":239,"y":-208,"width":250,"height":60,"type":"text","text":""},
+		{"id":"8274383f10148f80","x":-405,"y":95,"width":165,"height":60,"color":"6","type":"text","text":"个人培养计划"},
+		{"id":"d40355cbe9b0c744","x":-100,"y":-180,"width":160,"height":60,"type":"text","text":"公共必修课     **5**"},
+		{"id":"7a6137adc767f4a9","x":140,"y":-300,"width":250,"height":60,"type":"text","text":"新时代中国特色社会主义理论与实践"}
+	],
+	"edges":[
+		{"id":"5b582f163c400c0a","fromNode":"8274383f10148f80","fromSide":"right","toNode":"d40355cbe9b0c744","toSide":"left"},
+		{"id":"2c5d302cb0d4aa43","fromNode":"d40355cbe9b0c744","fromSide":"right","toNode":"7a6137adc767f4a9","toSide":"left"}
+	]
+}
