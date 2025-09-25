@@ -1,0 +1,2 @@
+# ObsidianNotes
+用于同步安卓平板与电脑间的Obsidian笔记
